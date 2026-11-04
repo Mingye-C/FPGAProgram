@@ -1,0 +1,15 @@
+*_Runs/
+*.bit
+*.img
+*.vraw
+*.wav
+*.mp4
+*.log
+*.logw
+*.dmp
+*.db
+*.rpt
+*.qor
+*.o
+*.bid
+.DS_Store

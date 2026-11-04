@@ -1,0 +1,1 @@
+localparam integer LOGO_DATA_BYTES=7146, LOADING_DATA_BYTES=3228;
